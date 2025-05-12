@@ -2,7 +2,7 @@
 
 ### CoT Errors
 
-​	All the contents of the EdmondFU/Causal-Reasoning-Bench_CRBench dataset, where the files with the suffix _f are aesthetic data files and are only for viewing.
+​	All the contents of CRBench dataset, where the files with the suffix _f are aesthetic data files and are only for viewing.
 
 ### Refined CoT
 
