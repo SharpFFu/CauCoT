@@ -45,9 +45,9 @@ def save_json_obj(jsonl_data, file_name, indent=4):
         file.write(line + "\n")
     print(f"Successfully wrote one object to {file_name}")
 
-file_name = './CoT Errors/Measure_error/Measure_error.jsonl'
+file_name = './CRBench/Measure_error/Measure_error.jsonl'
 
-output_file = './Refined CoT/Measure_error/Measure_error.jsonl'
+output_file = './CauCoT/Measure_error/Measure_error.jsonl'
 
 ds_train = read_jsonl(file_name)
 
