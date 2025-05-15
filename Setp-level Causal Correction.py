@@ -175,7 +175,7 @@ def update_cot(Cpa, Ci):
 
 cnt = 0
 testtimes = 2   # total epoch
-causal_sigscore = 0.5
+causal_sigscore = 1
 for row in ds_train:
     instruction = row["problem"]
     cnt += 1
