@@ -1,6 +1,6 @@
 ## A brief introduction to the composition and content of the code resources
 
-### Causal-Reasoning-Bench_CRBench
+### CRBench
 
 ​	All the contents of the Causal-Reasoning-Bench_CRBench dataset, where the files with the suffix _f are aesthetic data files and are only for viewing.
 
